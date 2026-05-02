@@ -20,3 +20,8 @@ cd Zcore-Framework
 chmod +x zcore.sh
 ./zcore.sh
 
+​⚠️ Disclaimer
+​This tool is created for educational purposes only. The developer is not responsible for any misuse. Please use it legally.
+
+​📄 License
+​This project is licensed under the MIT License
